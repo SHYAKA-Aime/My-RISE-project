@@ -485,7 +485,7 @@ footer button.show{
 
 .quiz_box{
     width: 345px;
-    height:60%;
+    height:75%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
