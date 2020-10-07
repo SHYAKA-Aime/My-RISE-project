@@ -617,7 +617,7 @@ section .option_list .option .icon{
     font-size: 10px;
     pointer-events: none;
     transition: all 0.3s ease;
-    line-height: 20px;
+    line-height: 10px;
 }
 .option_list .option .icon.tick{
     color: #23903c;
