@@ -484,7 +484,8 @@ footer button.show{
 }
 
 .quiz_box{
-    width: 400px;
+    width: 345px;
+    height:100%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -559,7 +560,7 @@ section{
 
 section .que_text{
     font-size: 17px;
-    font-weight: 400;
+    font-weight: 350;
 }
 
 section .option_list{
@@ -571,7 +572,7 @@ section .option_list .option{
     background: aliceblue;
     border: 1px solid #84c5fe;
     border-radius: 5px;
-    padding: 4px 7px;
+    padding: 4px 5px;
     font-size: 16px;
     margin-bottom:9px;
     cursor: pointer;
@@ -631,7 +632,7 @@ section .option_list .option .icon{
 }
 
 footer{
-    height: 30px;
+    height: 40px;
     padding: 0 10px;
     display: flex;
     align-items: center;
@@ -654,7 +655,7 @@ footer .total_que span p:first-child{
 }
 
 footer button{
-    height: 20px;
+    height: 30px;
     padding: 0 6px;
     font-size: 16px;
     font-weight: 300;
