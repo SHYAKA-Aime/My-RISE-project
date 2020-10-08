@@ -688,7 +688,8 @@ footer button.show{
     border-radius: 5px;
     display: flex;
     padding: 10px 15px;
-    width: 290px;
+    width:80%px;
+   height:70%;
     align-items: center;
     flex-direction: column;
     justify-content: center;
@@ -705,19 +706,19 @@ footer button.show{
 }
 
 .result_box .complete_text{
-    font-size: 16.7px;
+    font-size: 15.7px;
     font-weight: 400;
 }
 
 .result_box .score_text span{
     display: flex;
     margin: 7px 0;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 13px;
+    font-weight: 350;
 }
 
 .result_box .score_text span p{
-    padding: 0 2px;
+    padding: 0 2.5px;
     font-weight: 440;
 }
 
