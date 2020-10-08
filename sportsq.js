@@ -40,7 +40,7 @@ let questions = [
     options: [
       "RWANDA",
       "URUGUAY",
-      "GERMANY",
+      "BRAZIL",
       "none of them"
     ]
   },
