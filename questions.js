@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "how far is sun from earth?",
+    answer: "150 million kilometers",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "1000 kilometers",
+      "1 million kilometers",
+      "1b illion miles",
+      "150 million kilometers"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "which mammal is capable to fly?",
+    answer: "Bat",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Humman",
+      "Bat",
+      "Whale",
+      "Rabbit"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "who is creator of c++ programming language?",
+    answer: "Bjarne stroustrup",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Bill gate",
+      "Steve jobs",
+      "Bjarne stroustrup",
+      "SHYAKA Aimé"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "what is chemical formula of glucose?",
+    answer: "C6H6O6",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "H2O",
+      "C6H6O6",
+      "COO3",
+      "None of them"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "what is the exact value of pi of circle?",
+    answer: "22/7",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "100",
+      "3.14",
+      "22/7",
+      "0.5"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
