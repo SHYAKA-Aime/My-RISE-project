@@ -427,7 +427,7 @@ footer button.show{
 
 .info_box{
     width:80%;
-    height:80%;
+    height:72%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -485,8 +485,8 @@ footer button.show{
 }
 
 .quiz_box{
-    width:80%;
-    height:80%;
+    width:90%;
+    height:85%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -689,7 +689,7 @@ footer button.show{
     border-radius: 5px;
     display: flex;
     padding: 10px 15px;
-    width:78%;
+    width:75%;
     height:70%;
     align-items: center;
     flex-direction: column;
