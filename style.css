@@ -688,8 +688,8 @@ footer button.show{
     border-radius: 5px;
     display: flex;
     padding: 10px 15px;
-    width:80%px;
-   height:70%;
+    width:75%;
+    height:70%;
     align-items: center;
     flex-direction: column;
     justify-content: center;
