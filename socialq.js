@@ -25,7 +25,7 @@ let questions = [
     {
     numb: 3,
     question: "who is current first billionaire 2020?",
-    answer: "Jeff bezos",
+    answer: "Jeff Bezos",
     options: [
       "Jeff Bezos",
       "Steve jobs",
@@ -50,7 +50,7 @@ let questions = [
     answer: "SHYAKA Aimé & Tony Robert",
     options: [
       "Kalisa and Matayo",
-      "SHYAKA Aimé & Tony Robrt",
+      "SHYAKA Aimé & Tony Robert",
       "CSA IT",
       "None of them"
     ]
