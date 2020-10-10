@@ -28,9 +28,9 @@
             <button class="restart">Continue</button>
         </div>
     </div>
-
+    <h1 class="mess"></h1>
     <!-- Quiz Box -->
-    <div class="quiz_box">
+    <div id="quizz" class="quiz_box">
         <header>
             <div class="title">Online Quiz By CSA Connekt</div>
             <div class="timer">
@@ -77,6 +77,41 @@
 
     <!-- Inside this JavaScript file I've coded all Quiz Codes -->
     <script src="script.js"></script>
+<style>
+    .mess{
+    background:red;
+       color:#fff;
+       border-radius:25px;
+       text-align:center;
+       padding:3%;
+    }
+    </style>
+ 
+    <html>
+<head>
+</head>
+<body>
+<h2 id="mess">
+<script>
+document.onkeydown = fkey;
+document.onkeypress = fkey
+document.onkeyup = fkey;
 
+var wasPressed = false;
+
+function fkey(e){
+        e = e || window.event;
+       if( wasPressed ) return; 
+
+        if (e.keyCode == 116) {
+            console.log("f5 pressed");
+        document.getElementById("mess").innerHTML="you tried to reload,you got zero";
+        document.getElementById("quizz").style.display="none";
+            wasPressed = true; }
+}
+</script>
+</body>
+</html>
+    
 </body>
 </html>
