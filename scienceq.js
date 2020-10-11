@@ -48,7 +48,7 @@ let questions = [
   },
     {
     numb: 5,
-    question: "what is the exact value of <b>&pi;</b>of circle?",
+    question: "what is the exact value of <b>&pi;</b> of circle?",
     answer: "22/7",
     options: [
       "100",
