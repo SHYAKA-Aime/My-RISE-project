@@ -26,7 +26,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "who is creator of c++ programming language?",
+    question: "who is creator of <b>c++ programming language</b>?",
     answer: "Bjarne stroustrup",
     options: [
       "Bill gate",
@@ -37,7 +37,7 @@ let questions = [
   },
     {
     numb: 4,
-    question: "what is chemical formula of glucose?",
+    question: "what is chemical formula of <b>glucose</b>?",
     answer: "C6H6O6",
     options: [
       "H2O",
@@ -48,7 +48,7 @@ let questions = [
   },
     {
     numb: 5,
-    question: "what is the exact value of &pi; of circle?",
+    question: "what is the exact value of <b>&pi;</b>of circle?",
     answer: "22/7",
     options: [
       "100",
