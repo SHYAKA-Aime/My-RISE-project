@@ -2,13 +2,13 @@
 let questions = [
     {
     numb: 1,
-    question: "what is motto of CSA?",
-    answer: "Uburere Ubutwari Ubumenyi",
+    question: "Who is the CEO of google?",
+    answer: "Sundar pichai",
     options: [
-      "Uburere ubuzima ubumenyi",
-      "Uburere Ubutwari Ubumenyi",
-      "Discipline and Success",
-      "Sports and education"
+      "Larry page",
+      "Mark zuckerberg",
+      "Sundar pichai",
+      "Sergey Brin"
     ]
   },
     {
@@ -46,12 +46,12 @@ let questions = [
   },
     {
     numb: 5,
-    question: "who are creators of this website?",
-    answer: "SHYAKA Aimé & Tony Robert",
+    question: "capital city of Tanzania is?",
+    answer: "Dodoma",
     options: [
-      "Kalisa and Matayo",
-      "SHYAKA Aimé & Tony Robert",
-      "CSA IT",
+      "Kigali",
+      "Dodoma",
+      "Dar es Salam",
       "None of them"
     ]
   },
