@@ -15,7 +15,7 @@ let questions = [
   },
     {
     numb: 2,
-    question: " Who among the following Tennis Player has won the US Open Men's Title 2020??",
+    question: " Who among the following Tennis Player has won the US Open Men's Title 2020?",
     answer: "Dominic Thiem",
     options: [
       "Roger Federer",
