@@ -15,13 +15,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "How do we call sports competition in CSA?",
-    answer: "MAGIS",
+    question: " Who among the following Tennis Player has won the US Open Men's Title 2020??",
+    answer: "Dominic Thiem",
     options: [
-      "CSA Ligue",
-      "MAGIS",
-      "Vurgus",
-      "none of them"
+      "Roger Federer",
+      "Dominic Thiem",
+      "Rafael Nadal",
+      "Novak Djokovic"
     ]
   },
     {
