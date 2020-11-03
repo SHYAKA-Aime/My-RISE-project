@@ -57,7 +57,7 @@ let questions = [
       "0.5"
     ]
   },
-  // i can increase number of questions up to infinity 😂😁😊
+  // I can increase number of questions up to infinity 😂😁😊
   //   {
   //   numb: 6,
   //   question: "Question is Here",
