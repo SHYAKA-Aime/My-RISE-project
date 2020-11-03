@@ -1,6 +1,6 @@
-//Written by SHYAKA Aime
+// by SHYAKA Aimé
 
-//selecting all required elements
+//selecting all required elements 
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
@@ -162,7 +162,7 @@ function showResult(){
         scoreText.innerHTML = scoreTag;
     }
     else{ // if user scored less than 1
-        let scoreTag = '<span>and sorry 😐, You got only<p>'+ userScore +'&nbsp;out of&nbsp;<p>'+ questions.length +'</p></span>';
+        let scoreTag = '<span>and sorry 😐, You got only<p>'+ userScore +'&nbsp;<smal>out of&nbsp;<p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
 }
