@@ -1,4 +1,4 @@
-//Written by SHYAKA Aime
+//by SHYAKA Aime
 
 // creating an array and passing the number, questions, options, and answers
 let questions = [
@@ -57,12 +57,11 @@ let questions = [
       "CBA"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
-
+ // i can increase number of questions up to infinity 😂😁😊
+  
   //   {
   //   numb: 6,
-  //   question: "Your Question is Here",
+  //   question: "Question is Here",
   //   answer: "Correct answer of the question is here",
   //   options: [
   //     "Option 1",
