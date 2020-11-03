@@ -1,4 +1,4 @@
-// by SHYAKA Aime
+// by SHYAKA Aimé ©
 
 // creating an array and passing the number, questions, options, and answers
 let questions = [
