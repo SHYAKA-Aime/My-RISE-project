@@ -61,7 +61,7 @@ let questions = [
 
    {
     numb: 6,
-    question: "Simplify, sin<sup>2</sup>&teta; + cos<sup>2</sup>&teta;",
+    question: "Simplify, <strong> sin<sup>2</sup>&theta; + cos<sup>2</sup>&theta;</strong>",
     answer: "1",
     options: [
       "100",
