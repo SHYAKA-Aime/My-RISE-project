@@ -49,8 +49,8 @@ let questions = [
   },
     {
     numb: 5,
-    question: "Simplify",
-    answer: "what is the exact value of <b>&pi;</b> of circle?",
+    question: "what is the exact value of <b>&pi;</b> of circle?",
+    answer: "22/7",
     options: [
       "100",
       "3.14",
@@ -61,8 +61,8 @@ let questions = [
 
    {
     numb: 6,
-    question: "Simplify",
-    answer: "sin<sup>2</sup>&teta; + cos<sup>2</sup>&teta;",
+    question: "Simplify, sin<sup>2</sup>&teta; + cos<sup>2</sup>&teta;",
+    answer: "1",
     options: [
       "100",
       "1",
