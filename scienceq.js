@@ -49,8 +49,8 @@ let questions = [
   },
     {
     numb: 5,
-    question: "what is the exact value of <b>&pi;</b> of circle?",
-    answer: "22/7",
+    question: "Simplify",
+    answer: "what is the exact value of <b>&pi;</b> of circle?",
     options: [
       "100",
       "3.14",
@@ -58,6 +58,20 @@ let questions = [
       "0.5"
     ]
   },
+
+   {
+    numb: 6,
+    question: "Simplify",
+    answer: "sin<sup>2</sup>&teta; + cos<sup>2</sup>&teta;",
+    options: [
+      "100",
+      "1",
+      "5",
+      "none of them"
+    ]
+  },
+
+
   // I can increase number of questions up to infinity 😂😁😊
   //   {
   //   numb: 6,
