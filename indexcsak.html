@@ -4,297 +4,45 @@
 <head>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap" rel="stylesheet">
 <script src="https://use.fontawesome.com/8369f4e223.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Do quiz with CSA konnekt</title>
 </head>
 <body>
-<nav>
-<div class="top">
-<img src="logo.png">
-<ul>
-<li><a href="http://csakonnekt.atwebpages.com/">Home</a></li>
-<li><a href="#">Chat</a></li>
-</ul>
-</div>
-</nav>
-<div class="head">
-<div class="section">
-<h2 style="text-align:center">Do Quiz by CSA konnekt</h2>
-<p>This is a Simple online Quiz powered by csa konnekt,
-which can help you to improve your skills in different categories.</p>
-	</div>
-<div class="section">
-<h3 style="text-align:center">Get started by the Quiz</h3>
-<p> get started by the Quiz firstly you have to
-choose the category you want to do quiz for.
-choose it from categories below</p>
-</div>
-</div>
-<div class="note">
-<p><b>N.B:</b><br>●Once you click the category you will automatically
-start its quiz</p>
-    <p>●you will get the rules at the beginning of the quiz</p>
-</div>
-<div class="categories">
-<ul>
-<li><button><a href="scienceq.html" target="_blank" >Science</a></button></li>
-<li><button><a href="socialq.html" target="_blank">Social skills</a></button></li>
-<li><button><a href="sportsq.html" target="_blank">Sports</a></button></li>
-<li><button><a href="#">Religious</a></button></li>
-</ul>
-</div>
+<!-- navbar -->  
+ <nav class="navbar navbar-expand-lg fixed-top ">  
+ <a class="navbar-brand" href="#">Home</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">  
+ <span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse " id="navbarSupportedContent">     <ul class="navbar-nav mr-4">
+ <li class="nav-item">
+     <a class="nav-link" data-value="about" href="#">About</a>        </li>  
+<li class="nav-item">
+    <a class="nav-link " data-value="portfolio"href="#">Portfolio</a>    
+ </li>
+ <li class="nav-item"> 
+    <a class="nav-link " data-value="blog" href="#">Blog</a>         </li>   
+<li class="nav-item">  
+   <a class="nav-link " data-value="team" href="#">         Team</a>       </li>  
+<li class="nav-item"> 
+ <a class="nav-link " data-value="contact" href="#">Contact</a>       </li> 
+</ul> 
+</div></nav>
 
-<div class="form-head">
- <h3>Did you like it? <b>Leave us a message</b></h3>
- </div>
- <div class="form">
- Names:<br>
- <input type="text" placeholder="your Name..." id="name"><br>
- Email:<br>
- <input type="mail" placeholder="your Email..." id="email"><br>
- message:<br>
- <textarea id="mess"></textarea><br>
- <a href="index.html" class="button">Send message</a>
- </div>
- </div>
- </div>
-<div class="contact">
-<h3 style="text-align:center">Or Contact us</h3>
-<p class="cont">
-<h4>Email:</h4>
-●shyakaaime25@gmail.com<br>
-●tonyquano98@gmail.com&nbsp;<br>
-<h4>Whatsapp:</h4>
-●0780 085 493<br>
-●0781 934 493<br>
-</p>
+<header class="header">
+  <div class="overlay"></div>
+   <div class="container">
+    <div class="description ">
+   <h1>    Hello ,Welcome To My official Website
+    <p>    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>   
+ <button class="btn btn-outline-secondary btn-lg">See more</button>   </h1>  
 </div>
-<footer>
-<div class="foo">
-<div class="social">
-<ul>
-<li class="face"><a href="https://www.facebook.com/tony.robert.3701779"  target="_blank"><i class="fa fa-facebook"></i></a></li>
-<li class="twit"><a href="https://twitter.com/SHYAKAAim1?s=09"  target="_blank"><i class="fa fa-twitter"></i></a></li>
-<li class="insta"><a href="https://www.instagram.com/csakonnekt" target="_blank"><i class="fa fa-instagram"  ></i></a></li>
-<li class="yout"><a href="https://www.youtube.com/channel/UC0TUlI9UixIj-GQyN0rA7oQ"  target="_blank"><i class="fa fa-youtube"></i></a></li>
-</ul>
-<div class="cop">
-<p><b><a href="https://www.magislet.com" target="_blank" style="text-decoration:none" ><span style="color:black">VISIT </span> <span style="color:blue">Magis</span></a></b></p>
-<p>&copy; 2020 CSA Konnekt group</p>
-</div>
-</div>
-</footer>
-<style type="text/css">
-*{
-box-sizing:border-box;
-margin:0;
-padding:0;
-}
-body{
-font-family: 'Open Sans', sans-serif;
-background:rgba(50,150,235,0.3);
-}
-.top ul{
-margin-left:75%;
-position:absolute;
-top:10%;
-}
-.top ul li{
-margin-left:8%;
-list-style:none;
-display:inline-block;
-margin-top:5%;
-}
-.top ul li a{
-color:#000;
-text-decoration:none;
-font-weight:bold;
-}
-.top ul li a:hover{
-color:blue;
-}
-nav{
-background:#fff;
-box-shadow:0 2px 3px #555;
-position:fixed;
-top:0;
-left:0;
-z-index:1;
-width:100%;
-}
-.top img{
-width:25%;
-padding:5px;
-}
-.head{
-margin-top:23%;
-margin-left:4%;
-margin-right:4%;
-}
-.note{
-margin-top:9%;
-margin-left:4%;
-margin-right:4%;
-}
-.categories{
-margin-left:30%;
-margin-top:10%;
-}
-.categories ul li{
-margin:1%;
-color:orange;
-}
-.categories ul li a{
-text-decoration:none;
-color:#fff;
-font-weight:bold;
-font-size:110%;
-}
-.categories ul li a:hover{
-text-decoration:none;
-}
-.social ul li.face a:hover{
-	  color:#1877f2;
-	  }
-	  .social ul li.yout a:hover{
-	  color:#ff0000;
-	  }
-	  .social ul li.twit a:hover{
-	  color:#1da1f2;
-	  }
-	  .social ul li.insta a:hover{
-	  color:#9c27b0;
-	  }
-.foo{
-background:orange;
-}
-.social ul{
-margin-left:35%;
-}
-.cop{
-text-align:center;
-}
-.social ul li{
-display:inline-flex;
-list-style:none;
-margin:1%;
-}
-.social ul li a{
-font-size:112%;
-color:#000;
-}
-footer{
-margin-top:10%;
-}
-.form-head{
-	  text-align:center;
-	  margin-top:10%;
-	  }
-	  .form{
-	  margin-left:31%;
-	  }
-	  .form .button{
-	  margin-top:15%;
-	  border-radius:5.5px;
-	  width:150px;
-	  padding:2%;
-	  margin-left:7%;
-	  text-decoration:none;
-	  color:black;
-	  cursor:pointer;
-	  height:35px;
-	  outline:none;
-	  border:1px solid orange;
-	  font-family: 'Open Sans', sans-serif;
-	  background:orange;
-	  color:#fff;
-	  }
-	  .form input:hover{
-	  box-shadow:0 1.8px 1.1px orange;
-	  }
-	  .form text-area:hover{
-	  box-shadow:0 2px 1.1px orange;
-	  }
-	  .form textarea{
-	  border-radius:5.5px;
-	  width:60%;
-	  outline:none;
-	  border:1px solid orange;
-	  padding:1.9%;
-	  font-family: 'Open Sans', sans-serif;
-	  }
-	  .form input{
-	  border-radius:5.5px;
-	  width:60%;
-	  padding:1.9%;
-	  outline:none;
-	  border:1px solid orange;
-	  font-family: 'Open Sans', sans-serif;
-	  }
-	.categories ul li{
-	list-style:none;
-	}
-	.categories button{
-	background:rgba(20,70,255,0.9);
-	padding:10px 20px 10px 20px;
-	font-size:115%;
-	border-radius:25px;
-	outline:none;
-	border:none;
-	width:180px;
-	}
-	.contact{
-	text-align:center;
-	background:rgba(0,70,235,0.17);
-	padding:5%;
-	}
-@media(min-width:730px){
-.head{
-text-align:center;
-}
-.cont{
-margin-top:0.8%;
-}
-.contact{
-margin-top:2.5%;
-padding:2%;
-}
-.note{
-text-align:center;
-}
-.note{
-margin-top:2.5%;
-}
-.categories{
-margin-top:2.5%;
-text-align:center;
-margin-left:0;
-}
-.section{
-display:inline-block;
-}
-.form-head{
-margin-top:2.5%;
-}
-.social ul{
-text-align:center;
-}
-.social ul{
-margin-left:0;
-}
-.form{
-align-items:center;
- margin-left:28.9%;
-}
-.top img{
-width:12%;
-padding:5px;
-}
-.head{
-margin-top:10%;
-}
-}
-</style>
+   </div>
+  
+</header>
+
 </body>
 </html>
