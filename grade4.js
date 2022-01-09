@@ -2,6 +2,17 @@
 // creating an array and passing the number, questions, options, and answers
 let questions = [
     {
+     numb: 2,
+    question: "Drugs that are classed as stimulants...",
+    answer: "make you gain weight",
+    options: [
+      "build your muscles",
+      "make you gain weight",
+      "slow down thinking processes",
+      "increase heart rate"
+    ]
+  },
+    {
     numb: 1,
     question: "Who is the CEO of google?",
     answer: "Sundar pichai",
@@ -10,17 +21,6 @@ let questions = [
       "Mark zuckerberg",
       "Sundar pichai",
       "Sergey Brin"
-    ]
-  },
-    {
-    numb: 2,
-    question: "Drugs that are classed as stimulants...",
-    answer: "make you gain weight",
-    options: [
-      "build your muscles",
-      "make you gain weight",
-      "slow down thinking processes",
-      "increase heart rate"
     ]
   },
     {
