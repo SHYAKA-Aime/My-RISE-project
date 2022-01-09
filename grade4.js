@@ -14,7 +14,7 @@ let questions = [
   },
     {
     numb: 2,
-    question: "Drugs that are classed as stimulants...?",
+    question: "Drugs that are classed as stimulants...",
     answer: "make you gain weight",
     options: [
       "build your muscles",
@@ -29,7 +29,7 @@ let questions = [
     answer: "which of the two actors is not in the film?",
     options: [
       "which of the two actors is in the film?",
-      "which actor is is in the film",
+      "which actor is is in the film?",
       "which of the two actors is not in the film?",
       "none of them"
     ]
