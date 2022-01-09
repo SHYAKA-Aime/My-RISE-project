@@ -3,32 +3,32 @@
 let questions = [
     {
     numb: 1,
-    question: "Who is the CEO of google?",
-    answer: "Sundar pichai",
+    question: "complete the sentence with correct adverb<br>who is the.....runner in the world?",
+    answer: "fastest",
     options: [
-      "Larry page",
-      "Mark zuckerberg",
-      "Sundar pichai",
-      "Sergey Brin"
+      "more fast",
+      "faster",
+      "fastest",
+      "more fastest"
     ]
   },
     {
     numb: 2,
-    question: "who won nobel peace prize 2019?",
-    answer: "Abiy ahmed",
+    question: "what is the source of light in circuit?",
+    answer: "bulb",
     options: [
-      "Nelson mandela",
-      "Poul Kagame",
-      "Abiy ahmed",
-      "none of them"
+      "bulb",
+      "switch",
+      "buzzer",
+      "battery"
     ]
   },
     {
     numb: 3,
-    question: "who is current first billionaire 2020?",
-    answer: "Jeff Bezos",
+    question: "who is current first billionaire 2021?",
+    answer: "Elon Musk",
     options: [
-      "Jeff Bezos",
+      "Elon Musk",
       "Steve jobs",
       "Bill gates",
       "mark Zuckerberg"
@@ -36,24 +36,24 @@ let questions = [
   },
     {
     numb: 4,
-    question: "what is earth's current population 2020?",
-    answer: "7.8 billions",
+    question: "which of the following is not a force?",
+    answer: "Electricity",
     options: [
-      "10 billions",
-      "100 millions",
-      "7.8 billions",
-      "all of them"
+      "Electricity",
+      "upthrust",
+      "Gravity",
+      "friction"
     ]
   },
     {
     numb: 5,
-    question: "capital city of Tanzania is?",
-    answer: "Dodoma",
+    question: "9x5=?",
+    answer: "45",
     options: [
-      "Kigali",
-      "Dodoma",
-      "Dar es Salam",
-      "None of them"
+      "14",
+      "25",
+      "45",
+      "40"
     ]
   },
    // i can increase number of questions up to infinity 😂😁😊
