@@ -4,7 +4,7 @@
 let questions = [
     {
     numb: 1,
-    question: "The area in which an organism live sis called...",
+    question: "The area in which an organism live is called...",
     answer: "A habitat",
     options: [
       "A habitat",
