@@ -4,35 +4,35 @@
 let questions = [
     {
     numb: 1,
-    question: "is it good to do sports?",
-    answer: "Yes",
+    question: "The area in which an organism live sis called...",
+    answer: "A habitat",
     options: [
-      "No",
-      "Yes",
-      "i dont't know",
-      "may be.."
+      "A habitat",
+      "A river",
+      "A wood",
+      "An environment"
     ]
   },
     {
     numb: 2,
-    question: " Who among the following Tennis Player has won the US Open Men's Title 2020?",
-    answer: "Dominic Thiem",
+    question: "besides hearing,the eye aids us in...",
+    answer: "balancing the body",
     options: [
-      "Roger Federer",
-      "Dominic Thiem",
-      "Rafael Nadal",
-      "Novak Djokovic"
+      "determining location",
+      "understanding frequencies",
+      "fighting diseases",
+      "balancing the body"
     ]
   },
     {
     numb: 3,
-    question: "How many ballon D'or messi have?",
-    answer: "6",
+    question: "which of the following is a push factor for urbanization?",
+    answer: "Unemployment",
     options: [
-      "1",
-      "0",
-      "6",
-      "100"
+      "Better service",
+      "Greater wealth",
+      "Unemployment",
+      "improved health care"
     ]
   },
     {
@@ -43,7 +43,7 @@ let questions = [
       "RWANDA",
       "URUGUAY",
       "BRAZIL",
-      "none of them"
+      "U.S.A"
     ]
   },
     {
@@ -57,8 +57,17 @@ let questions = [
       "CBA"
     ]
   },
- // i can increase number of questions up to infinity 😂😁😊
-  
+   {
+    numb: 5,
+    question: "if x+4=b what is the value of b?",
+    answer: "b+4",
+    options: [
+      "4b",
+      "-4b",
+      "b+4",
+      "b-4"
+    ]
+  },
   //   {
   //   numb: 6,
   //   question: "Question is Here",
