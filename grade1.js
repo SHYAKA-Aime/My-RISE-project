@@ -5,13 +5,13 @@
 let questions = [
     {
     numb: 1,
-    question: "how far is sun from earth?",
-    answer: "150 million kilometers",
+    question: "2x11=?",
+    answer: "22",
     options: [
-      "1000 kilometers",
-      "1 million kilometers",
-      "1b illion miles",
-      "150 million kilometers"
+      "10",
+      "15",
+      "25",
+      "22"
     ]
   },
     {
@@ -27,45 +27,45 @@ let questions = [
   },
     {
     numb: 3,
-    question: "who is creator of <b>c++ programming language</b>?",
-    answer: "Bjarne stroustrup",
+    question: "How many legs has a lizard?",
+    answer: "4",
     options: [
-      "Bill gate",
-      "Steve jobs",
-      "Bjarne stroustrup",
-      "SHYAKA Aimé"
+      "2",
+      "4",
+      "6",
+      "8"
     ]
   },
     {
     numb: 4,
-    question: "what is chemical formula of <b>glucose</b>?",
-    answer: "C6H6O6",
+    question: "which word is not a time stamp?",
+    answer: "shoes",
     options: [
-      "H2O",
-      "C6H6O6",
-      "COO3",
-      "None of them"
+      "later",
+      "tomorrow",
+      "next week",
+      "shoes"
     ]
   },
     {
     numb: 5,
-    question: "what is the exact value of <b>&pi;</b> of circle?",
-    answer: "22/7",
+    question: "which phrase suggests it is in the future tense?",
+    answer: "I am going to",
     options: [
-      "100",
-      "3.14",
-      "22/7",
-      "0.5"
+      "I am going to",
+      "I already have",
+      "i am doing it",
+      "i did it"
     ]
   },
 
    {
     numb: 6,
-    question: "Simplify, <strong> sin<sup>2</sup>&theta; + cos<sup>2</sup>&theta;</strong>",
-    answer: "1",
+    question: "46-9=?",
+    answer: "37",
     options: [
       "100",
-      "1",
+      "37",
       "5",
       "none of them"
     ]
