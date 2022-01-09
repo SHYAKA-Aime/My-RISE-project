@@ -14,45 +14,45 @@ let questions = [
   },
     {
     numb: 2,
-    question: "who won nobel peace prize 2019?",
-    answer: "Abiy ahmed",
+    question: "Drugs that are classed as stimulants...?",
+    answer: "make you gain weight",
     options: [
-      "Nelson mandela",
-      "Poul Kagame",
-      "Abiy ahmed",
-      "none of them"
+      "build your muscles",
+      "make you gain weight",
+      "slow down thinking processes",
+      "increase heart rate"
     ]
   },
     {
     numb: 3,
-    question: "who is current first billionaire 2020?",
-    answer: "Jeff Bezos",
+    question: "which of the following statements is not correct?",
+    answer: "which of the two actors is not in the film?",
     options: [
-      "Jeff Bezos",
-      "Steve jobs",
-      "Bill gates",
-      "mark Zuckerberg"
+      "which of the two actors is in the film?",
+      "which actor is is in the film",
+      "which of the two actors is not in the film?",
+      "none of them"
     ]
   },
     {
     numb: 4,
-    question: "what is earth's current population 2020?",
-    answer: "7.8 billions",
+    question: "A substance with PH 6 is...",
+    answer: "a weak acid",
     options: [
-      "10 billions",
-      "100 millions",
-      "7.8 billions",
-      "all of them"
+      "a weak acid",
+      "a strong acid",
+      "a weak alkali",
+      "neutral"
     ]
   },
     {
     numb: 5,
-    question: "capital city of Tanzania is?",
-    answer: "Dodoma",
+    question: "a strong acid...",
+    answer: "has a low PH number",
     options: [
-      "Kigali",
-      "Dodoma",
-      "Dar es Salam",
+      "turns litmus paper to green",
+      "has a low PH number",
+      "is partial ionizer in water",
       "None of them"
     ]
   },
